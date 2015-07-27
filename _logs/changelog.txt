@@ -1,0 +1,44 @@
+10/21/14
+
+Item:
+Portfolio Gallery
+
+Goal:
+	- Create a jQuery script to display images in a grid format.
+
+Tasks:
+1. Images List: 10/21/14	CHECK
+	- Create gallery and display images from a static list of image paths
+2. Gallery Filter: 10/21/14	CHECK
+	- Display images based on tags selected by user
+3. Accordion: 10/21/14
+	- Add feature to hide/show gallery
+4. Modal Box: 10/21/14
+	- View larger images in shadow box
+5. PHP: 10/24/14
+	- Update to generate images list by pulling paths from image directories
+
+Completion Date ETA:
+10/24/14
+
+Entry Date: 12/05/2014
+Features Wants List:
+- Ability to have images in gallery to shift around as the size of the window is changed
+	- Example: http://northernarmy.com/work/
+
+----------------------------------------------------------------------------------------------------------------
+
+Item:
+Contact Form
+
+Goal:
+	- Create a form that allows users to message me
+	
+Tasks:
+1. Validation: 10/22/14
+	-
+	
+-------
+12/05/2014
+
+
